@@ -1,5 +1,24 @@
 // main: _utils.sass
 
+// Used for form elements, including buttons and every input/output element that
+// needs an user interaction base style
+
+=io-small
+	font-size: $size-small
+	height: 24px
+=io-medium
+	font-size: $size-medium
+	height: 40px
+=io-large
+	font-size: $size-large
+	height: 48px
+
 =io
-	border: 1px solid grey
+	background-color: $color-io-background
+	border: 1px solid $color-io-border
+	border-radius: 4px
+	color: $color-io-text
+	font-size: $size-normal
 	height: 32px
+	padding-left: 10px
+	padding-right: 10px

@@ -7,3 +7,24 @@ This project was started under Atom environment with sass-autocompile and editor
 After install Atom editor, run
 
 `apm install sass-autocompile editorconfig`
+
+
+## TODO List
+
+### Components
+- [ ] Card
+- [ ] Modal
+- [ ] Navigation Bar
+
+### Elements
+- [ ] Button
+- [ ] Icon
+- [ ] Image
+- [ ] Notification
+- [ ] Progress
+- [ ] Table
+- [ ] Tag
+- [ ] Title
+
+### Layout
+- [ ] Grid
